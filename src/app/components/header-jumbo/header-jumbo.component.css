@@ -1,0 +1,30 @@
+.text-nav{
+    margin-right: 30px;
+}
+
+.text-nav a{
+    color: #000000;
+    font-weight: 500;
+    font-size: 150%;
+}
+
+a:hover{
+    background-color: #ffffff;
+}
+
+.text-jumbo{
+    font-size: 450%;
+    font-weight: 600;
+    text-transform: capitalize
+}
+
+.jumbotron{
+    background-image: url('../../../assets/blaze.jpg');
+    background-size: 500px;
+    padding-top: 10em;
+    background-repeat: no-repeat
+}
+
+.search-form{
+    width: 550px;
+}

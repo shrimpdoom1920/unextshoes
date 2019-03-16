@@ -1,0 +1,20 @@
+.text-left{
+    margin-left: 5%;
+    color: #636e72;
+}
+
+hr{
+    color: #2d3436;
+    border: 1.5px solid;
+    max-width: 1400px;
+}
+
+.blaze{
+    max-width: 540px;
+    height: 250px;
+    background-size: contain;
+}
+
+.card-title a {
+    color: #ffffff;
+}
