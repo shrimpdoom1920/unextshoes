@@ -1,0 +1,21 @@
+.text-left{
+    margin-left: 5%;
+    color: #636e72;
+    margin-top: 20px;
+}
+
+hr{
+    color: #2d3436;
+    border: 1.5px solid;
+    max-width: 1400px;
+}
+
+.card{
+    max-width: 650px;
+}
+
+.shoes{
+    width: 650px;
+    height: 350px;
+    background-size: contain;
+}

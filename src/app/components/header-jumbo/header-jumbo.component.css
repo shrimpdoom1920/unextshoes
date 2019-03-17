@@ -1,3 +1,7 @@
+.fixed-top{
+    background-color: #dfe6e9;
+}
+
 .text-nav{
     margin-right: 30px;
 }
@@ -19,6 +23,7 @@ a:hover{
 }
 
 .jumbotron{
+    margin-top: 20px;
     background-image: url('../../../assets/blaze.jpg');
     background-size: 500px;
     padding-top: 10em;
